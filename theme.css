@@ -23,6 +23,23 @@
 	--text-accent-hover: #cc645e;
 	--text-selection: #dae5e2;
 	--text-highlight-bg: #fab48588;
+	--color-red: #AD514C;
+	--color-orange: #D28450;
+	--color-yellow: #D28450;
+	--color-green: #538A8A;
+	--color-cyan: #78716C;
+	--color-blue: #356B94;
+	--color-purple: #804C6E;
+	--color-pink: #BD71A4;
+	--color-red-rgb: 173, 81, 76;
+	--color-orange-rgb: 210, 132, 80;
+	--color-yellow-rgb: 120, 113, 108;
+	--color-green-rgb: 83, 138, 138;
+	--color-cyan-rgb: 120, 113, 108;
+	--color-blue-rgb: 53, 107, 148;
+	--color-purple-rgb: 128, 76, 110;
+	--color-pink-rgb: 189, 113, 164;
+
 }
 .theme-dark {
 	--background-primary: #24262b;
