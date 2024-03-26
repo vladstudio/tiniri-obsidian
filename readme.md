@@ -13,5 +13,5 @@ To install:
 - open Obsidian
 - open Settings
 - select Appearance, click Manage button next to Themes
-- type `Tiniri` in the filter (**awaiting approval**)
+- type `Tiniri` in the filter
 - enjoy :-)
