@@ -42,10 +42,10 @@
 
 }
 .theme-dark {
-	--background-primary: #24262b;
-	--background-primary-alt: #24262b;
-	--background-secondary: #202226;
-	--background-secondary-alt: #202226;
+	--background-primary: #252629;
+	--background-primary-alt: #252629;
+	--background-secondary: #222325;
+	--background-secondary-alt: #222325;
 	--background-modifier-border: #0003;
 	--accent-h: 0;
 	--accent-l: 50;
@@ -54,11 +54,11 @@
 	--interactive-hover: #3F444D;
 	--interactive-accent: #314F52;
 	--interactive-accent-hover: #39595C;
-	--text-normal: #C7BDB3;
-	--text-muted: #857577;
-	--text-faint: #85757799;
-	--text-on-accent: #C7BDB3;
-	--text-on-accent-inverted: #24262B;
+	--text-normal: #DBD3CA;
+	--text-muted: #9E8B8E;
+	--text-faint: #9E8B8E99;
+	--text-on-accent: #DBD3CA;
+	--text-on-accent-inverted: #252629;
 	--text-success: #AAC2AE;
 	--text-warning: #EB8042;
 	--text-error: #EB8042;
